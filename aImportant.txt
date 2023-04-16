@@ -1,0 +1,71 @@
+{
+    pocketbase admin credentials
+}
+{
+Username: munaja@munaja.com
+Password: munajaabcd
+}
+
+{
+User credentials:
+
+    1. Username: abcd@munaja.com
+       Password: 12345678
+
+    2. Username: defg@munaja.com
+       Password: 56789012
+
+    3. Username:
+        
+
+}
+
+{
+    Requirements:
+
+    Sprint01:
+    Status:
+    [
+    - Login functionality using authentication
+    - Forgot password functionality
+    - User profile management
+    - Registration through admin
+    ]
+
+    Sprint02:
+    Status: 
+    [
+    - Adding and deleting student information
+    - Editing student information
+    - Student attendance management
+    - Student grade management
+    ]
+
+    Sprint03:
+    Status:
+    [
+    - Adding and deleting teacher information
+    - Editing teacher information
+    - Teacher attendance management
+    - Teacher grade management
+    ]
+
+    Sprint04: 
+    Status:
+    [
+    - Creating courses
+    - Deleting courses
+    - Course registration for students
+    - Course grade management
+    ]
+
+    Sprint05: 
+    Status: Not started yet
+    [
+    - Student grade reports generation
+    - Teacher grade reports generation
+    - Attendance reports generation
+    - Course grade
+    ]
+ 
+}
